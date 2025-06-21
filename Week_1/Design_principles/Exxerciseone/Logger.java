@@ -1,4 +1,4 @@
-package fse;
+package Exxerciseone;
 
 public class Logger {
     private static Logger instance;

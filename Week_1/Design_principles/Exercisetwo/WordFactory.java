@@ -1,4 +1,4 @@
-package fse;
+package Exercisetwo;
 
 public class WordFactory extends DocumentFactory {
     public Document createDocument() {

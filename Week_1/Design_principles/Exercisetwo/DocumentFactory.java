@@ -1,4 +1,4 @@
-package fse;
+package  Exercisetwo;
 public abstract class DocumentFactory {
     public abstract Document createDocument();
 }

@@ -1,4 +1,4 @@
-package dsa;
+package Exxerciseseven;
 
 public class Forecast {
     public static double helper(double principal, double rate, int years) {

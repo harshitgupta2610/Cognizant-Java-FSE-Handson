@@ -1,4 +1,4 @@
-package dsa;
+package Exxercisetwo;
 
 public class Product {
     int productId;

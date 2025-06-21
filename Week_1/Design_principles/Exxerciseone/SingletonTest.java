@@ -1,4 +1,4 @@
-package fse;
+package Exxerciseone;
 
 
 public class SingletonTest {

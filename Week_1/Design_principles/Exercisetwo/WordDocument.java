@@ -1,4 +1,4 @@
-package fse;
+package  Exercisetwo;
 
 public class WordDocument implements Document {
     public void open() {
